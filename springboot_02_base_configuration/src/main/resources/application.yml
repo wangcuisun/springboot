@@ -1,0 +1,13 @@
+server:
+  port: 8082
+
+country: 中国
+
+user:
+  name: 王伟攸
+  age: 29
+
+likes:
+  - 原神
+  - 塞尔达
+  - 赛博朋克 2077
